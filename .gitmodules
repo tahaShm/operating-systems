@@ -1,0 +1,18 @@
+[submodule "socket-programming"]
+	path = socket-programming
+	url = https://github.com/tahaShm/socket-programming.git
+[submodule "ensemble-classifier"]
+	path = ensemble-classifier
+	url = https://github.com/tahaShm/ensemble-classifier.git
+[submodule "multithreading"]
+	path = multithreading
+	url = https://github.com/tahaShm/multithreading.git
+[submodule "xv6-customized-system-calls"]
+	path = xv6-customized-system-calls
+	url = https://github.com/tahaShm/xv6-customized-system-calls.git
+[submodule "xv6-process-scheduling"]
+	path = xv6-process-scheduling
+	url = https://github.com/tahaShm/xv6-process-scheduling.git
+[submodule "xv6-synchronization"]
+	path = xv6-synchronization
+	url = https://github.com/tahaShm/xv6-synchronization.git
